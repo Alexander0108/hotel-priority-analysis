@@ -36,6 +36,8 @@ This project demonstrates my approach to prioritizing hotels for SEO optimizatio
 - Open `Analysis` tab in Google Sheets
 - Review calculated `Priority` column
 - Use conditional formatting and metrics to guide SEO decisions
+> **Note:** This is an Excel workbook (.xlsx). Click "View raw" or download the file to open it in Excel or Google Sheets.
+
 
 ## Key Takeaways
 - Demonstrates analytical thinking and Excel/Sheets skills
